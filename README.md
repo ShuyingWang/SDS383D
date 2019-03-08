@@ -1,3 +1,4 @@
 # SDS383D
-Solution for Exercise 1:
+Code for Exercise 2:
+https://htmlpreview.github.io/?https://github.com/ShuyingWang/SDS383D/blob/master/Exercise_2_code.html
 
