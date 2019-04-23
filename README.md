@@ -15,8 +15,8 @@
 
 [Exercise 3 Code](Exercise_3_code.md)
 
-[Exercise 4 Math Test](Exercise_4_mathtest.R)
+[Exercise 4 Math Test](Exercise-4-mathtest.R)
 
-[Exercise 4 Cheese](Exercise_4_cheese.R)
+[Exercise 4 Cheese](Exercise-4-cheese.R)
 
-[Exercise 4 Polls](Exercise_4_polls.R)
+[Exercise 4 Polls](Exercise-4-polls.R)
