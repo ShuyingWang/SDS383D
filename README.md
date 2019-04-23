@@ -6,6 +6,8 @@
 
 [Exercise 3 Solution](exercises03-Solutions.pdf)
 
+[Exercise 4 Solution](exercises04-Solutions.pdf)
+
 
 # Exercise Codes
 
